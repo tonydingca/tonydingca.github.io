@@ -14,7 +14,7 @@
 
 
 <h2 id="tools"> Tools/Software </h2>
-<h3 id="web">Web Related <h3>
+<h3 id="web">Web Related </h3>
 
 - [CanIuse](http://caniuse.com/) - __前端必备__；查看浏览器对各种新特性的兼容情况
 - [overapi](http://overapi.com/) - 最全的开发人员在线速查手册
